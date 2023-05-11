@@ -5,7 +5,7 @@ body {
 	margin:0px;
 	
 }
-.nav{
+.header{
 	background-color:black;
 	color:white;
 	padding: 20px 10px;
@@ -23,7 +23,7 @@ body {
 	border-radius:20px;
 	height:150px
 }
-.box-2{
+.latest-news-section{
 	background-color:white;
 	padding:10px;
 	margin:10px;
@@ -35,7 +35,7 @@ p {
 	width:200px;
 }
 
-.box-3 {
+.pictorial-news-section {
 	display:flex;
 	flex-direction:column;
 	background-color:white;
